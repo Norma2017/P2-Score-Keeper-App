@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_size">24dp</dimen>
+    <dimen name="txt_size">18sp</dimen>
+    <dimen name="txt_mar">8dp</dimen>
+    <dimen name="scofo_30">40sp</dimen>
+    <dimen name="txt_pad4">4dp</dimen>
+    <dimen name="txtm_tp">0dp</dimen>
+    <dimen name="btn_mar">8dp</dimen>
+    <dimen name="btn_mrg">1dp</dimen>
+    <dimen name="txt_mrgt">1dp</dimen>
+    <dimen name="btn_mrgl">100dp</dimen>
+    <dimen name="btn_wdth">100dp</dimen>
+    <dimen name="txt_Sz">40sp</dimen>
+    <dimen name="btn_mrgbtt">36dp</dimen>
+    <dimen name="txt_pdd">4dp</dimen>
+    <dimen name="btnrst_mrg">2dp</dimen>
+    <dimen name="btnf_mrt">30dp</dimen>
+    <dimen name="btnrest_mar">32dp</dimen>
+    <dimen name="btnmar_bttm">16dp</dimen>
+    <dimen name="arbitro">45dp</dimen>
+    <dimen name="arbitroh">65dp</dimen>
+    <dimen name="txsc">25sp</dimen>
+    <dimen name="btncard_ml">30dp</dimen>
+    <dimen name="cardpl">8dp</dimen>
+    <dimen name="cardpr">8dp</dimen>
+    <dimen name="tcardmrgt">8dp</dimen>
+    <dimen name="btxt20sp">20sp</dimen>
+    <dimen name="btnmt8">8dp</dimen>
+    <dimen name="btnmb8">16dp</dimen>
+
+</resources>
